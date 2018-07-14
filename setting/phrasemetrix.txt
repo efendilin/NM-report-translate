@@ -1,0 +1,1626 @@
+﻿bowel physiologic change associated with DM:糖尿病相關的腸道生理變化,dx
+but preclude detail evaluation of small occult lesion:但可能干擾潛在病灶之偵測,dx
+but preclude detail evaluation of colon:但可能干擾潛在結腸病灶之偵測
+physiologic change associated with menstrual cycle:月經相關的生理性變化,noun-dx
+bowel physiologic change:腸道生理變化,noun-dx
+without obvious morphologic asymmetry shown by CT:電腦斷層發現無明顯型態異常
+stationary as compared with prior study:與前次檢查相比無變化
+but residual tumoral uptake cannot be excluded:但是不能排除殘餘腫瘤攝取的可能性
+residual tumoral uptake cannot be excluded:不能排除殘餘腫瘤攝取的可能性
+No obvious hypermetabolic lesion is detected to suggest evidence of tumoral uptake:無明顯高代謝性病灶，沒有支持惡性腫瘤存在的證據
+suggest regular clinical follow up:建議定期臨床追蹤
+all stationary:以上皆無變化
+all:全
+without:無
+post-surgical change:手術後變化
+gastritis:胃炎
+ulcer-related:潰瘍相關
+obvious:明顯
+morphologic:型態
+asymmetry:不對稱
+associated with DM:糖尿病相關的,adj-aft
+elastofibroma dorsi:彈性纖維瘤
+fdg-pet:正子電腦斷層,noun-exam
+foci of:局部,adj
+clinical:臨床
+associated with:相關的,adj-aft
+malignant tumoral uptake:惡性病灶,noun-dx
+compression fracture:壓迫性骨折,noun-dx
+physiologic bowel uptake:腸道生理性變化,noun-dx
+as compared with last study:與前次檢查相比較,noun-fu
+calcification of coronary artery:冠狀動脈鈣化
+costovertebral junction:肋骨脊椎連結處
+perithyroid:甲狀腺旁
+retrothyroid:甲狀腺後
+lobe:葉
+lobes:葉
+sclerotic:硬化
+Suggest:建議
+stones:結石
+Bony:骨
+metastasis:惡性轉移
+metastases:惡性轉移
+lower portion:下部
+implants:植入物
+implant:植入物
+Fibroinfiltration:纖維浸潤
+submandibular:下頷
+hypodense nodularity:低密度結節
+focus of:局部病灶
+in the current study:於本次檢查,noun-fu
+mainly:為主,adv
+segment:節,noun
+enlarged in size:大小變大,adjph
+focus:小病灶
+prior:前次
+dermatologic OPD:皮膚科門診
+uterus:子宮
+upper portion:上部
+whole body:全身
+left portion:左側
+right portion:右側
+posterior aspect:後側
+back:背
+folliculitis:毛囊炎
+hepatic cyst:肝水泡
+hepatic cysts:肝水泡
+near:靠近
+IUD:子宮內避孕器,noun
+Fibrocystic:纖維囊狀
+hematologic:血液科
+hyperplasia:增生
+up to:最大,adj
+LAP:淋巴結病變,noun-dx
+ground-glass-opacity:毛玻璃樣
+ground glass opacity:毛玻璃樣
+acromioclavicular:肩鎖
+however:然而
+ggo:毛玻璃樣
+ggos:毛玻璃樣
+gastric antrum:胃竇,noun-ant
+tubo-ovarian:卵巢輸卵管,noun-ant
+retromolar:臼齒後,noun-ant
+distal esophagus near ec junction:食道遠端胃食道交界處附近,noun-ant
+follow up with ldct 1 year later:一年後低劑量肺部電腦斷層追蹤
+follow up with LDCT:低劑量肺部電腦斷層追蹤
+urologic:泌尿科
+uterine:子宮,noun-ant
+ureteral:輸尿管,noun-ant
+prostatic:攝護腺,adj-ant
+prostate:攝護腺,noun-ant
+ovarian cyst:卵巢囊腫,noun-dx
+calcifiaction:鈣化
+annually:每年
+breasts:乳房
+cavitation:空洞化
+both breasts:兩側乳房
+dome:穹面
+endocrinologic OPD:內分泌科門診
+with:合併,prep
+sacrum:薦椎,noun-ant
+fdg:葡萄糖,adj-fdg
+pet:正子電腦斷層,noun-exam
+rul:右上肺葉,noun-ant
+rml:右中肺葉,noun-ant
+rll:右下肺葉,noun-ant
+lul:左上肺葉,noun-ant
+lll:左下肺葉,noun-ant
+hydrocele:陰囊水腫
+posterolateral:後外側
+lesser curvature:胃小彎
+right renal:右腎
+left renal:左腎
+regression:緩解
+Infiltrations:浸潤
+lungs:肺
+larger:較大的
+ones:一些
+glottis:聲門
+coronary:冠狀
+perigastric:胃旁
+involvement:侵犯
+outer quadrant:外側
+SI:薦髂
+to:到
+muscles:肌
+antrum:竇
+pterygoid:翼骨
+pterygoid plate:翼板
+plate:板
+manubrium:胸骨柄
+gastric body:胃體
+paravertebral:脊椎旁
+supraclavicular:鎖骨上
+retrocrural:橫膈後
+paraaortic:主動脈旁
+para-aortic:主動脈旁
+aortocaval:主動脈腔靜脈
+pericaval:腔靜脈旁
+lateral portion:外側
+calcification:鈣化
+skull:頭骨
+maxilla:顎骨
+iliac chain:髂動脈旁區
+L/S-spine:腰椎/薦椎
+scapula:肩胛骨
+internal:內
+common:總
+gluteus:臀
+iliacus:髂
+iliac:髂
+psoas:腰
+pubis:恥骨
+calvicle:鎖骨
+Regional:區域
+distant:遠端
+reactive:反應
+Extraosseous:骨頭外
+skeletons:骨骼
+skeleton:骨骼
+destruction:破壞
+ring-shaped:環狀
+post therapeutic:治療後
+endoscopic examination:內視鏡檢查
+Upper GI endoscopic examination:胃鏡檢查
+bowel physiological change:腸道生理性變化
+physiological change:生理性變化
+but preclude true lesion detection:但可能干擾潛在結腸病灶之偵測
+colonscopic examination:大腸鏡檢查
+left thyroid lobe:甲狀腺左葉
+right thyroid lobe:甲狀腺右葉
+extending to:延伸到
+spots:點
+spot:點
+Urologist:泌尿科醫師
+to suggest evidence of metastasis:支持惡性轉移的證據
+left lobe:左葉
+right lobe:右葉
+liver cyst:肝水泡
+liver cysts:肝水泡
+layers:層
+layer:層
+fundus:底
+doctor:醫師
+also:也
+NPC:鼻咽癌
+history:病史
+first:較可能
+C1:頸椎第一節
+C2:頸椎第二節
+C3:頸椎第三節
+C4:頸椎第四節
+C5:頸椎第五節
+C6:頸椎第六節
+C7:頸椎第七節
+T1:胸椎第一節
+T2:胸椎第二節
+T3:胸椎第三節
+T4:胸椎第四節
+T5:胸椎第五節
+T6:胸椎第六節
+T7:胸椎第七節
+T8:胸椎第八節
+T9:胸椎第九節
+T10:胸椎第十節
+T11:胸椎第十一節
+T12:胸椎第十二節
+L1:腰椎第一節
+L2:腰椎第二節
+L3:腰椎第三節
+L4:腰椎第四節
+L5:腰椎第五節
+S1:薦椎第一節
+two:兩個
+posterior:後側
+costoclavicular:肋骨鎖骨
+spinous process:脊突
+L-spine:腰椎
+right upper lung:右上肺葉
+right middle lung:右中肺葉,noun-ant
+right lower lung:右下肺葉,noun-ant
+left upper lung:左上肺葉,noun-ant
+left lower lung:左下肺葉,noun-ant
+capsulitis:關節囊炎
+multinodular goiter:多結節性甲狀腺腫
+bulging from:突出自
+reactive hyperplasia:反應性增生
+hypodense:低密度
+accessory spleen:副脾
+gastric:胃,noun-ant
+No:無
+wall:壁
+walls:壁
+pyloric:幽門,adj
+region:區域,noun-lesion
+left anterior:左前側
+anterior:前側
+junction:連接處,noun
+junctions:連接處,noun
+area:區域,noun
+nasopharynx:鼻咽部
+costo-sternal:肋骨胸骨,noun-ant
+ldct:低劑量肺部電腦斷層,noun-exam
+mucus:黏液,noun-lesion
+ct:電腦斷層,noun-exam
+chest OPD:胸腔科門診,noun-fu
+opd:門診,noun-fu
+if symptomatic:如有症狀，,adv-ant
+djd:關節退化性變化,noun-dx
+post-R/T change:放射治療後變化,noun-dx
+study:檢查,noun-exam
+gastro-esophageal:胃食道,noun-ant
+ec:胃食道,noun-ant
+scoliosis:脊柱側彎,noun-dx
+granuloma:肉芽組織,noun-dx
+sinusitis:鼻竇炎,noun-dx
+year later:年後
+months later:個月後
+neck:頸部
+enlarged prostate:攝護腺肥大,noun-dx
+correlation:比對,noun-fu
+management:處理,noun-fu
+follow up:追蹤,noun-fu
+contrast:顯影劑,noun-lesion
+mucus collection:黏液堆積,noun-lesion
+mri:核磁共振,noun-exam
+also noted:另外發現,adv-ant\
+cysts:水泡,noun-dx
+cyst:水泡,noun-dx
+adenoma:腺瘤,noun-dx
+sinusitis:鼻竇炎,noun-dx
+otitis media:中耳炎,noun-dx
+endocrinologist:內分泌科醫師,noun-fu
+lns:淋巴結,noun-lesion
+ln:淋巴結,noun-lesion
+lymph node:淋巴結,noun-lesion
+lymph nodes:淋巴結,noun-lesion
+non-specific:非特異性
+without apparent interval change:無明顯變化,dx
+Correlation with scheduled colonoscopy:比對大腸鏡檢查結果
+mild inflammation associated with GERD:逆流性食道炎相關的輕微發炎
+scheduled colonoscopy:大腸鏡檢查結果
+sonography:超音波
+ent:耳鼻喉科
+gyn:婦產科
+cm:公分
+gerd:逆流性食道炎
+lap:淋巴結病變
+laps:淋巴結病變
+dentopathy:牙科病症
+malignancy:惡性病灶
+perifissural:裂隙旁
+inflammation:發炎
+inflammatory:發炎
+resolved:緩解
+degenerative change:退化性變化
+change:變化
+ascites:腹水
+mediastinal:縱膈腔
+mediastinum:縱膈腔
+suspicious:疑似
+gi:肝膽胃腸科
+mediastinal:縱膈腔
+hilar:肺門
+hilum:肺門
+axillary:腋下
+reflux esophagitis:逆流性食道炎
+esophagitis:食道炎
+esophagus:食道
+focally:局部
+focal:局部
+lymphadenitis:淋巴腺炎
+Expansile:擴張
+osteolytic:蝕骨性
+further:進一步
+heterogeneously:不均勻
+heterogeneous:不均勻
+minimal:少許
+pedicle:椎根
+apical lung:肺尖
+contracted:萎縮的
+lesion:病灶
+lesions:病灶
+cm:公分,unit
+fibroinfiltrative:纖維浸潤
+interval change:無變化,adj-aft
+interval changes:無變化,adj-aft
+compared with:比較,verb
+compare with:比較,verb
+lateral segment:外側段
+superior segment:上段
+medial segment:內側段
+shoulder joint:肩關節,noun-ant
+shoulder:肩部,noun-ant
+tendinitis:肌腱炎,dx
+possible:可能為,dx
+patch:斑塊
+faint:輕微
+gb:膽囊
+URI:上呼吸道感染
+COM:慢性中耳炎
+diffusely:廣泛性
+process:過程
+diffus:廣泛性
+close:密切
+facet:小面
+mildly:輕微
+mild:輕微
+faint:輕微
+faintly:輕微
+degeneration:退化
+degenerative:退化
+change:變化
+tendinitis:肌腱炎
+post-traumatic:受傷後
+nodal metastases:惡性淋巴轉移
+nodal metastasis:惡性淋巴轉移
+size:大小
+image:影像
+dm:糖尿病
+tb:結合病
+correlation:比對
+subpleural:肋膜下
+peribronchial:支氣管旁
+pleural:肋膜
+hemorrhoid:痔瘡
+axial:中軸
+appendicular:附肢
+perifissure:裂隙旁
+external iliac:外髂
+spondylolysis:椎弓解離
+measuring about:大小約
+para-tracheal:氣管旁
+para-aortic:主動脈旁
+para-vertebrae:脊椎旁
+spondylolisthesis:腰椎滑脫
+DDx:鑑別診斷
+component:組成,noun
+duodenum:十二指腸
+panendoscopy:胃鏡
+survey:檢查
+a:一個,art
+prosthesis:假體,noun-ant
+pre-auricular:耳朵前
+and:及,prep
+more:變得更加,adj
+less:變少,adj
+or:或,conj
+abdominal bladder pubic split:裂腹膀胱恥骨
+abdominal contusion:腹部挫傷
+diastematogastry:縱裂腹
+abdominal diastematia:縱裂腹
+abdominal fissure:裂腹
+abdominal injury:腹部損傷
+injury of abdomen:腹部損傷
+abdominal tuberculosis:腹部結核病
+abdominal tumor:腹腫瘤; 腹壁腫瘤
+sarcoma:肉瘤
+ossification:異常骨化
+abnormal vessel formation:血管發育異常
+abnormality of development:發育異常
+abnormal development:發育異常
+tuberculosis:結核病
+typhoid:傷寒
+abrasion:擦破
+limb:肢
+absence of:無
+accidental lesion:意外傷
+accident trauma:意外傷
+achondroplasty:軟骨發育不全
+achondroplasy:軟骨發育不全
+chondrodystrophy:軟骨發育不全
+cartilagineous ateliosis:軟骨發育不全
+acidosteophyte:針狀骨贅
+cancer:癌
+carcinoma:癌
+acinous:腺泡癌
+nerve:神經
+acoustic:聽
+acquired:後天
+acral thickening:肢端肥厚
+acromegaly:肢端肥大病
+fracture:骨折
+acromial:肩峯
+acute:急性
+influenza:流行性感冒
+emphysema:肺氣腫
+exanthem:皮疹
+goiter:甲狀腺腫
+lupus:狼瘡
+pulmonary tuberculosis:肺結核
+rheumatism:風濕
+hypertropy:肥大
+splenic:脾
+splenomegaly:脾增大
+addision-gull's disease:脂瘤性纖維瘤
+keloid:瘢痕瘤
+adenocyst:腺囊腫
+duct:管狀
+tubular:管狀
+adenoid:腺樣
+glandular:腺
+adenoleiomyomatous fibroma:腺平滑肌纖維瘤
+bladder:膀胱
+adenoma:腺瘤
+glands:腺
+mucous glands:黏液
+associated with constipation:與便祕相關的
+gynecologic:婦產科
+Baseline colonoscopy is suggested:建議安排大腸鏡檢查                              
+recent 2 years if not done:如兩年內未做過
+pelviectasis:腎盂擴張
+tension-related physiologic change:張力相關的生理性變化
+about:約
+sinuses:竇
+prostate:攝護腺
+vaginal:陰道
+adenomatous:腺
+chondroma:軟骨瘤
+cystoma:囊瘤
+fibroma:纖維瘤
+lipoma:脂肪瘤
+myoma:肌瘤
+myomas:肌瘤
+myosarcoma:肌肉瘤
+adenomatous myxoma:腺黏液瘤
+polypus:息肉
+adenopathy:腺病
+adenosarcomatous rhabdomyoma:腺肉橫紋肌瘤
+adgenic cyst:下頜骨黏連性皮樣囊腫
+adhesion of cyst:囊腫黏着
+adhyoid cyst:舌骨黏連性皮樣囊腫
+adnexal:子宮附屬器
+adolescent:青年
+adrenal:腎上腺
+hyperplasy:增生
+cortex:皮質
+colon:結腸
+gas:積氣
+gas in stomach:胃積氣
+auditory meatus:外耳道
+chorioid:脈絡膜
+ciliary body:睫狀體
+horny layer:角質層
+infraspinous muscle:棘下肌
+avulsion injury:撕裂傷
+anterior superior iliac spine:髂骨前上棘
+suggest regular follow up with LDCT:建議定期低劑量肺部電腦斷層追蹤
+physiologic uptake associated with menstrual cycle:月經週期相關的生理變化
+associated with menstrual cycle:月經週期相關的
+ureter:輸尿管
+physiologic uptake:生理性攝取
+physiologic:生理性攝取
+C/:頸椎/
+T/:胸椎/
+uptake:攝取
+maxillectomy:上頷骨切除
+fibrocalcification:纖維鈣化
+dilatation:擴張
+others:其他可能
+necrosis:壞死
+examination:檢查
+urine activity:尿液活性
+effusion:積液
+seedings:散佈
+seeding:散佈
+activity:活性
+ASIS:髂骨前上棘
+delayed images:補照後
+Sugggest:建議
+nephrologic:腎臟科
+recurrence:復發
+etiology:病灶
+reconstruction:重建
+granulomatous:肉芽腫性
+surgical site:手術部位
+accumulation:蓄積
+urine stasis:尿液滯留
+rectosigmoid:直腸乙狀
+injury:傷
+distal:遠端
+craniotomy:顱骨切開
+node:小結
+urethra:尿道
+BPH:攝護腺肥大
+Besides:而且
+coming:來臨
+optic:視
+pons:橋腦
+vein:靜脈
+portal:門
+post-menopause:停經
+hormonal:賀爾蒙
+stimulation:刺激
+uvula:懸雍垂
+acanthoma:上皮瘤
+fibrocalcified:纖維鈣化
+ventriculoperitoneal:腦室腹腔
+VP:腦室腹腔
+shunt:分流術
+insult:傷
+one:一
+follow-up:追蹤
+like:狀
+pattern:模式
+alveolar emphysema:肺泡氣腫
+endothelioma:內皮瘤
+alveolar sarcoma:泡狀肉瘤
+absence of:無
+tonsil:扁桃腺
+tonsils:扁桃腺
+amyloid:澱粉變性
+infiltration:浸潤
+atresia:閉鎖
+anal:肛門
+chancroid:下疳
+condyloma:濕疣
+anal fissure:裂肛
+aneurysmal:動脈瘤
+angiomatous:血管
+testicle:無睪丸
+anorectal:肛門直腸
+urethral:尿道
+antral:上頜竇
+antrochoanal:頜竇鼻後孔
+anurethry:無尿道(畸形)
+aortic:主動脈
+pneumonia:肺炎
+apex pneumonia:肺尖炎
+apical tuberculosis:肺尖結核
+apioid:梨狀
+apleury:無肋
+appendiceal:闌尾
+arcuate:弓形
+arterial:動脈
+arteriosclerotic:動脈硬化性
+articular:關節
+osteophyma:骨腫瘤
+pneumothorax:氣胸
+ascending:升
+asthmatic:氣喘性
+cardiac:心
+atrophic:萎縮
+fracture:骨折
+calculus:結石
+axillary:腋下
+ball:球狀
+basal:底
+chorionepithelioma:絨毛膜上皮瘤
+benign:良性
+lymphogranulomatosis:淋巴肉芽腫
+spongioma:海綿腫
+testicular:睾丸
+bifid uterus:有隔子宮
+bicornuate uterus:雙角子宮
+biforate uterus:雙口子宮
+bilateral:兩側
+biliary:膽
+biliary gravel:膽砂
+pigmentation:色素沉着
+bite:咬
+bite:咬傷; 咬創
+bite wound:咬傷; 咬創
+black:黑
+hematopathy:血液病
+hemopathy:血液病
+blood:血
+dyscrasia:惡液質
+cell:細胞
+bone:骨
+bone cyst:骨囊腫
+bone tuberculosis:骨結核
+dysplasy:發育不全
+bone marrow:骨髓
+outgrowth:外生
+osteophyte:骨贅
+boyer's cyst:舌骨下黏液囊腫
+brachial:臂
+brain:腦
+compression:壓迫
+brenner's tumor:睾丸小管卵巢腺瘤
+bronchial:枝氣管
+bronchitic:枝氣管
+bronchogenic:氣管原
+bronchopathy:枝氣管病
+crushing:挫傷
+contusion:挫傷
+cheek:臉頰
+buccal:臉頰
+bullous:大泡性
+burn:火傷
+synovial cyst:黏液囊腫
+bursal cyst:黏液囊腫
+bursal:黏液囊
+butterfly:蝶形
+malignant:惡性
+calcified:鈣化
+bile dust:膽管
+gallbladder:膽囊
+corpus uteri:子宮體
+gall bladder:膽囊
+penis:龜頭
+labia:陰脣
+lacrymal gland:淚腺
+larynx:喉
+laryngeal:喉
+lingual:舌
+mucous:黏膜
+nipple:乳頭
+parotid:腮
+peritoneal:腹膜
+peritoneum:腹膜
+pleural:肋膜
+pleura:肋膜
+salivary:唾液
+cutaneous:皮膚
+skin:皮膚
+small intestine:小腸
+facial:面
+face:面
+scalp:頭皮
+bladder:膀胱
+urinary bladder:膀胱
+tissue:組織
+canceration:癌化
+hemangioma:血管瘤
+the:
+capillary:毛細
+lymphangioma:淋巴管瘤
+carcinoid:癌樣
+carcinomatous:癌化
+invasion:侵犯
+scar:瘢痕
+complication:併發症
+hypercardiotrophy:心肥大
+malformation:畸形
+ossification:骨化
+wound:創傷
+diarrhea:腹瀉
+pole:端
+carotinoid:蘿蔔黃素樣
+myxoma:黏液瘤;
+cartilaginous:軟骨
+renal:腎
+catching cold:感冒
+cause:病因
+osteoma:骨瘤
+cavernous:海綿狀
+cavernous pulmonary tuberculosis:空洞性肺結核
+cavernous nodule:空洞性結節
+cecolithiasis:盲腸石病
+nevus:痣
+central:中央
+cephalic:頭
+cephaloma:髓樣肉瘤
+cerebral:腦
+cervical:頸
+pseudotumor:假瘤
+cervical cancer:子宮頸癌
+cervical myoma:子宮頸肌瘤
+cervical polypus:子宮頸息肉
+chancre:下疳
+rectum:直腸
+cholangial:膽管
+cholecystic:膽囊
+choledochus cyst:總膽管囊腫
+cholesteatoma:膽脂瘤
+renal pelvis:腎盂
+cholesterin:膽醇
+chondrodysplasy:軟骨發育異常
+chondroid:軟骨樣
+angioma:血管瘤
+periosteoma:骨膜瘤
+chordal:背索
+chorioid:脈絡膜
+pheochromocytoma:嗜鉻細胞瘤
+chromaffinopathy:嗜鉻組織病
+chronic:慢性
+rheumatism:風濕
+nephrosis:腎病
+chyle cyst:乳糜管囊腫
+line:線
+cicatricial:瘢痕
+rupture:破裂
+perineal:會陰
+esophageal:食道
+esophagus:食道
+muscular:肌
+muscle:肌
+tendon:肌腱
+tendinous:肌腱
+eruption:疹
+circumscribed:限局性
+clavicule:鎖骨
+clavicular:鎖骨
+cleft:裂
+cleidocranial:鎖骨顱骨
+clitoris:陰蒂
+closure:閉鎖
+coccycephalic:尾形頭
+coccygeal:尾骨
+colloid:膠體
+colon:結腸
+colonic:結腸
+vaginal:陰道
+vaginopathy:陰道病
+colpouterine:陰道子宮
+compensating:代償性
+compensatory:代償性
+complete:完全
+spinal cord:脊髓
+stone:結石
+condylar:髁
+congenital:先天
+defect:缺損
+wart:疣
+congestive:充血
+conjunctival:結合
+connective:結締
+infection:感染
+infectious:傳染
+molluscum:軟疣
+wound:挫創
+joint:關節
+joints:關節
+arthritis:關節炎
+mammary:乳
+mucous:黏膜
+testicles:睾丸
+thoracic:胸
+thorax:胸
+cordiform uterus:心形子宮
+corneal:角膜
+perforation:穿破
+chocolate cyst:巧克力囊腫
+corpus luteum cyst:黃體囊腫
+costal:肋骨
+hip:髖
+coxopathy:髖關節病
+cranial:顱石
+craniofacial:顱骨面骨
+leg:腿
+crural:小腿
+cutaneous:皮膚
+liomyoma:平滑肌瘤
+lymphadenoma:淋巴腺瘤
+cutaneous lymphogranulomatosis:皮膚淋巴肉芽腫
+lymphopathy:淋巴節病變
+myoma:肌瘤
+neuroma:神經瘤
+cylindrical:圓柱
+epithelioma:上皮瘤;
+endothelioma:內皮瘤
+cyst:囊腫
+cyst cavity:囊腫腔
+mammary gland:乳腺
+pineal gland:松果體
+cyst-wall:囊腫壁
+cystadenomatous:囊腺
+cystic adenoma:囊腺瘤
+teratoma:畸胎瘤
+kidney:腎臟
+kidneys:腎臟
+deep:深
+imperfect:不全
+degeneration:退化
+degenerative:退化性
+bed:床
+dental:牙
+cranial:顱骨
+depressive:內陷
+dermal:皮膚
+dermatocyst:皮囊腫
+dermic:皮膚
+dermoid:皮樣
+dermatology:皮膚科
+descending:降
+detachment:分離
+diabetic:糖尿性
+diabetic eruption:糖尿病疹; 糖尿性皮病
+diffuse:廣泛性
+diffuse adenoma:瀰漫性腺瘤
+diffuse alveolar dystrophy:瀰漫性齒槽榮養障礙
+diffuse epithelioma:瀰漫性上皮瘤
+diffuse erysipelas:瀰漫性丹毒
+diffuse gliosis:瀰漫性神經膠瘤病
+diffuse goiter:瀰漫性甲狀腺腫
+diffuse hyperostosis:瀰漫性骨肥厚
+diffuse lesion:瀰漫性損傷; 播散性損傷
+disseminated lesion:瀰漫性損傷; 播散性損傷
+diffuse lipoma:普遍性脂瘤
+diffuse meteorism:瀰漫性鼓脹
+diffuse myoma:瀰漫性肌瘤
+diffuse papilloma:瀰漫性乳頭狀瘤
+diffuse scrofulophyma:瀰漫性皮膚瘰癧; 瘰癧性象皮病
+diffuse trachoma:瀰漫性沙眼; 膠樣沙眼
+diffuse tuberculosis:瀰漫性結核病
+direct:直接
+disease:病
+fallopian tube:輸卵管
+hair:毛髮
+lip:脣
+liver:肝臟
+mouth:口
+shoulder:肩
+sinus:鼻竇
+spleen:脾
+gland:腺
+uretbra:尿道
+wrist:腕
+menstruation:月經
+pregnancy:妊娠
+fat:脂肪
+intestine:腸
+double:雙
+duplication of renal pelvis:複腎盂
+pelvis:盂
+double renal pelvis:複腎盂
+double spinal cord:雙脊髓(畸形)
+double uterus:雙子宮
+double vagina:雙陰道
+ducto-acinar:管腺泡
+duodenal:十二指腸
+duplication:重複畸形
+dupuytren's fracture:Dupuytren氏骨折
+dural:硬腦膜
+dyscrasic:惡病質
+ectogenic:外生
+ectopic:部位異常性
+eczematous:濕疹性
+eruption:疹; 皮膚疹
+elastic:彈性
+elbow:肘
+elongation:展長
+embolic:栓塞
+encephalic:腦
+endocardial:心內膜
+endocrine:內分泌
+endocrinology:內分泌學
+enlargement:增大
+enormous:巨大
+enthelial:黏膜上皮
+ependymal:腦室膜
+epicondylar:上髁
+thickening:肥厚
+epididymal:附睾
+epiglossal:舌上
+epiglottic:會厭
+epithelial:上皮性
+granulation:肉芽組織
+esophageal:食道
+essential:本態性
+xanthoma:黃瘤
+esthesioneuroblastoma:敏感性神經胚細胞瘤
+telangiectatic:毛細管擴張性
+callus:骨痂
+excessive enlargement:過度增大
+swelling:腫脹
+glioma:神經膠瘤
+exogenic:外原
+exogenous:外原性
+exophthalmic:突眼性
+papular:隆凸性
+external:外部
+extracapsular:關節囊外
+deposition:沉着
+exudation:滲出性
+exudative:小葉性滲出性肺結核
+exudative pulmonary tuberculosis:滲出性
+facial:面部
+false:假性
+false tuberculous tumor:假結核菌瘤
+familial:家族
+fascial:筋膜
+deficiency:缺乏
+adipose:脂肪
+fatty liver:脂肪肝
+femoral:股骨
+fetal:胎兒
+fibrillar neuroma:神經纖維瘤
+fibrillary astrocytoma:原纖維性星形細胞瘤
+fibrine deposition:纖維素沉着
+febrine accumulation:纖維素沉着
+fibrinous calculus:纖維素結石
+fibrin calculus:纖維素結石
+fibrinous polyp:纖維素性息肉
+fibrocyst:纖維囊腫
+fibroepithelial:纖維上皮
+fibroepithelioma:纖維上皮瘤
+fibroid:類纖維
+fibromatous:纖維
+papilloma:乳頭狀瘤
+fibrous:纖維
+elephantiasis:象皮病
+osteodystrophy:骨營養障礙
+rhabdomyoma:橫紋肌瘤
+fibrocytic:纖維囊狀
+siderotic pneumoconiosis:肺鐵末沉着病
+finger:指(趾)
+fish:魚
+cholecystic cyst:膽囊囊腫
+fissural:裂隙
+fissures:裂隙
+tooth:齒
+arch:弓
+vertebral:椎
+flat:扁平
+fluid:液體
+foamy:泡沫
+lesion:病灶
+nephropathy:腎病
+focal:局部
+atresia:閉鎖
+follicle fibroacanthoma:毛囊纖維棘皮瘤
+follicular:濾泡性
+foreign body:異物
+foreign:外來
+body:物
+gallstone:膽結石
+melanoma:黑瘤病
+fracture:骨折
+costal cartilage:肋軟骨
+cranial base:顱底
+cricoid:環狀軟骨
+cuboid bone:骰骨
+external condyle:外髁
+fracture of femur:股骨折
+fibula:腓骨
+forearm:前臂
+radius:橈骨
+humerus:肱骨
+ilium:髂骨
+internal condyle:內髁
+ischium:坐骨
+lower leg:小腿
+malleolus:髁骨
+metacarpus:掌骨
+metatarsus:蹠骨
+neck of femur:股骨頸
+femur:股骨
+neck of humerus:肱骨頸
+neck of radius:橈骨頸
+patellar:髕骨
+patella:膝蓋骨
+pelvis:骨盆
+penis:陰莖
+phalanx:趾(指)
+rib:肋骨
+ribs:肋骨
+sacral:薦椎
+sacrum:薦椎
+scaphoid:舟狀
+spinal column:脊柱
+sternal:胸骨
+sternum:胸骨
+talus:距骨
+tarsus:跗骨
+tibia:脛骨
+tracheal:氣管
+trachea:氣管
+ulnar:尺骨
+ulna:尺骨
+vertebrae:脊椎
+vertebra:脊椎
+vertebra body:椎體
+osteoma:骨瘤
+fragility:易碎
+frontal:額
+frontal lobe:額葉
+fuctional:官能
+fungous:黴菌(眞菌)
+fusion:黏連
+gallstone:膽結石
+biliary calculus:膽結石
+chololith:膽結石
+cholelith:膽結石
+ganglion cyst:腱鞘囊腫
+ganglionar glioneuroma:神經節神
+ganglionic:神經節
+ganister disease:矽酸巖礦工病
+gartnerian cyst:卵巢冠縱管囊腫
+gas cyst:氣囊腫
+gas in joint:關節積氣
+gas in spinel canal:椎管積氣
+gastric:胃
+gastric atresis:胃腔閉鎖
+gastroduodeno:胃十二指腸
+general:普遍
+general carcinosis:全身癌病
+general contusion:全身挫傷
+general disease:全身病; 普汛病
+general infection:全身傳染
+general lymphadenomatosis:普汛性淋巴腺瘤病
+giant-cell:巨細胞
+gingival:齒齦
+gland-celled:腺細胞
+glioblastic:神經膠質
+gliomatous:神經膠
+globular:球狀
+glomerulotubular:腎小管小球
+tongue:舌
+glossolith:舌石
+glossopathy:舌病
+vocal cord:聲帶
+glottic:聲帶
+gluteal:臀部
+gonads:性腺
+male:男
+uterine body:子宮體
+gout:痛風
+gouty:痛風
+granulation:肉芽樣肉瘤
+granulation tumor:肉芽腫
+granulous:肉芽腫性
+gravid:妊娠期
+uterine:子宮
+gravidity:妊娠期
+green:綠
+gum:齒齦
+stomach:胃
+gynecological:婦科
+haemoptic:吐血性
+haemorrhagic:出血性
+hair:毛
+hand:手
+hard:硬
+head:頭
+heart:心
+hematic:血性
+hematogenic:血原性
+siderosis:鐵質沉着病
+hematolymphangioma:血管淋巴管瘤
+pneumohemothorax:血氣胸
+hemicephalic monster:半頭
+hemiencephalic:半腦
+hemispheric:腦半球
+hemispore disease:半芽胞菌病
+hematology:血液學
+hemolytic:溶血性
+hemorrhagic:出血性
+hemosiderosis:含鐵血黃素沉着
+heocecal:迴盲腸
+hepatic:肝
+hepatic hyperplasia:肝組織增殖
+hereditary:遺傳
+heredofamilial:家族遺傳性
+herpetic:疱疹樣
+hilus:肺門
+joint:關節
+histopathology:組織病理學
+hole:穿孔
+cavity:腔洞樣
+hollow:腔洞樣
+horny:角化
+horse:馬
+horse-shoe:蹄鐵形
+humid:濕
+hyaline:透明
+hybrid:混雜
+multiple:多發性
+hydatid polypus:囊樣息肉
+lymphatic:淋巴
+hydrocyst:水囊腫
+hydropneumothorax:水氣胸
+hyoid bone:舌骨
+hypertrophic:肥大性
+lymphoma:淋巴瘤
+osteoarthropathy:骨關節病
+artery:動脈
+arteries:動脈
+vesical:膀胱
+capsular:關節囊
+ovarian:卵巢
+ovary:卵巢
+palatine tonsilla:腭扁桃體
+prostatic:前列腺
+thymus:胸腺
+thyroid gland:甲狀腺
+uterine cervix:子宮頸
+hypophyseal:垂體
+hypoplastic:發育不全
+hypospadias:尿道下裂
+idiopathic:自發
+ileocecal:迴結腸
+inclusion cyst:包含囊腫
+incomplete cleft palate:輕度裂腭
+incomplete fracture:不完全骨折
+rheumatic:風濕
+splenomegaly:脾增大
+infectious:傳染性
+infiltration:浸潤
+inflammatory:發炎性
+inflammatory infiltration:炎性浸潤
+infraglottic:聲帶下部
+inguinal:腹股溝
+initial:初期
+insufficiency:缺乏
+intercondylar:髁間
+interdigital:指(趾)間
+interfascicular:纖維朿間
+interlobular:小葉間
+intermittent:間歇
+adenomyosis:內膜異位
+internal disease:內科病
+internal ear:內耳
+internal ophthalmopathy:內眼病
+interstitial:間質
+intertrochanteric:粗隆間
+intestinal:腸
+gas-cysts:氣腫
+intima:血管內膜
+intracapsular:關節囊內
+intracranial tumor:顱內腫瘤
+intraorbital:眼眶內
+intrathoracic:胸內
+irregular:不規則
+islet adenoma:胰島腺瘤
+isolated:分隔性
+isthmic:咽峽
+juvenile:青年
+keloid:瘢痕瘤
+knee:膝
+labial:脣
+laceration:裂傷
+lacrimal:淚囊
+lithiasis:結石
+large:大
+laryngeal:喉
+late:晚期
+latent:潛伏性
+lateral:外側
+lens:晶狀體
+lenticular:豆狀
+lepidic:皮質
+leukemic:白血病
+linear:線狀
+lingual:舌
+lipomatous:脂瘤
+longitudinal:直行
+loss:缺失
+luteinic:黃體
+lymphadenopathy:淋巴結病
+lymphadenoid:淋巴腺樣
+lymphangial:淋巴管
+lymphangiectatic:淋巴管擴張性
+lymphangiopathy:淋巴管病
+lymphoblastic:淋巴胚
+lymphocytic:淋巴細胞
+lymphogenous:淋巴原
+lymphoglandular:淋巴腺
+malformation:畸形
+limbs:肢
+upper:上
+lower:下
+limb:肢
+mammary:乳
+fibroma:纖維瘤
+polycystoma:多囊瘤
+mastoid:乳腺
+maxillar:頜骨
+mediastinal:縱隔腔
+mediastinal emphysema:縱隔氣腫
+mediastinal tumor:縱隔腫瘤
+medullar:骨髓
+medullary:髓質
+medullosuprarenal:腎上體髓質
+melanine:黑色素
+meningeal:腦膜
+menstrual:月經
+mesenterial:腸系膜
+mesopharyngopathy:咽中部病
+mesothelial:間皮
+metabolic:代謝性
+metal:金屬
+miliary:粟粒
+mitral:僧帽瓣
+mixed:混合
+mobile:活動
+baker's cyst:關節外滑液囊腫
+mucomembranous:黏膜
+mucous:黏液
+adenomyoma:腺肌瘤
+muscular:肌
+myelately:脊髓發育不全
+myeloid:髓樣
+myxedema:黏液水腫
+myxedematous:黏液水腫
+myxoid:黏液
+myxoma:黏液瘤
+nabothian cysts:子宮頸腺囊腫
+nasal:鼻
+nasopharyngeal:鼻咽部
+nasoseptal:鼻中隔
+natural:自然
+necrotic:壞死性
+neoplasm:腫瘤
+neoplastic:贅瘤性
+nerve:神經
+nervous:神經
+neural:神經系
+neurotic:神經性
+nevus:痣; 斑痣
+nodular:結節性
+non-inflammatory:非發炎性
+nucleus:核
+numerous:多個
+obstructive:阻塞性
+occipital:顱枕
+occipital lobe:枕葉
+ocular:眼
+dentology:牙科
+ophthalmology:眼科
+optic:視
+oral:口腔
+organic:器官
+osseous:骨性
+ossification:骨化
+ossified:骨化
+ossifying:骨化
+osteal:骨
+fibrosarcoma:纖維肉瘤
+osteoid:骨樣
+ovarial:卵巢
+ovarian:卵巢
+overgrowth:發育過度
+palpebral:瞼
+pancreatic:胰
+papillary:乳頭狀
+papilloma:乳頭狀瘤
+papillomatous:乳頭狀
+papular:丘疹性
+parotid:腮腺
+partial:部份
+patellar:膝蓋骨
+pelvic:骨盆
+pelvis:恥骨
+penile:陰莖
+penis:陰莖
+pericardial:心包
+perineal:會陰
+periosteal:骨膜
+peritoneal:腹膜
+perivascular:血管周
+pharygeal:咽
+pharyngitic:咽
+pigmentary:色素性
+pineal:松果體
+pituitary:腦垂體
+plantar:足蹠
+pleuritic:肋膜
+polypoid:息肉狀
+primary:原發
+proliferative:增生性
+rib cages:肋骨
+prostatic:前列腺
+pulmonary:肺
+lung:肺
+punctured:刺
+purulent:膿性
+pyloric:幽門
+racemose:葡萄狀
+abutting:黏附
+rectal:直腸
+recurrent:復發性
+reticulated:網狀
+reticulo-endothelial:網狀內皮
+retinal:視網膜
+retroperitoneal:腹膜後
+retropharyngeal:咽後
+retrovascular:血管後
+retrovisceral:食管後
+rhabdomyomatous:平滑肌
+rickettsial disease:Ricketts氏體病
+L-:腰椎
+round:圓
+sacral:薦骨
+salivary:唾液
+sarcomatous:肉瘤
+femora:股骨
+femoral:股骨
+femus:股骨
+scapular:肩胛骨
+scapulae:肩胛骨
+scapula:肩胛骨
+scar:瘢痕
+scratch:抓傷
+scrotal:陰囊
+sebaceous cyst:粉瘤
+sebaceous:皮脂腺
+sebaceous nevus:脂線痣
+seborrhoic:溢脂性
+senile:老年
+separation:分離
+septic:感染性
+serous:漿液
+serum:血淸
+sexual:生殖
+sigmoid:乙狀結腸
+simple:單純
+skin:皮膚
+small:小
+soft:軟
+solid:實質
+solitary:單
+spider:蜘蛛形
+spinal:脊柱
+spindle:梭形
+squamous:鱗狀
+squamous-celled:鱗狀細胞
+sternal:胸骨
+subcutaneous:皮下
+sublingual:舌下
+submaxillary:頜下
+substernal:胸骨後
+superficial:表淺
+surgery:外科
+surgical:手術
+sympathetic:交感神經
+symptomatic:症狀
+system:系統
+temporal:顳
+tendinous:肌腱
+teratoid:畸胎
+testicle:睾丸
+thick:肥厚
+thickening:肥厚
+thoracic:胸部
+thoracic:胸壁
+thymic:胸腺
+thymus:胸腺
+thyreoglandular:甲狀腺
+thyreoidal:甲狀腺
+thyroid:甲狀腺
+tissue:組織
+tonsillar:扁桃腺
+torsion:扭轉
+total:完全
+toxic:毒物
+tracheal:氣管
+tracheobronchial:氣管枝氣管
+tracheolaryngeal:氣管喉
+transverse:橫
+traumatic:外傷性
+anal:肛門
+anus:肛門
+tropical:熱帶
+true:眞
+tubal:輸卵管
+tubercular:結核
+tuberculosis:結核
+tuberous:結節性
+tubular:管狀
+tumor:腫瘤
+tumor of bone-marrow:骨髓腫瘤
+caudate nucleus:尾狀核
+cerebral ventricle:腦室
+ear:耳
+endometrium:子宮內膜
+fallopian tube:輸卵管
+palate:腭
+parathyreoid:甲狀腺旁
+parotid gland:腮腺
+pituitary:垂體
+spermatic cord:精索
+typical:典型
+ulcerated:潰瘍性
+umbilical:臍部
+unilateral:單側
+ureteral:輸尿管
+urinary infiltration:尿
+uterine:子宮
+vaginal:陰道
+valvular:心瓣膜
+varicose:靜脈曲張
+vascular:血管
+villous:絨毛
+visceral:內臟
+vulval:女陰
+water:水
+x-ray:X光
+fibroadenoma:纖維腺瘤
+breast:乳房
+uterine cavity:子宮腔
+several:數個
+some:一些
+nodule:結節
+nodules:結節
+regions:區域
+region:區域
+eye extrinsic:眼外在
+eye intrinsic:眼內在
+masticatory:咀嚼
+tongue extrinsic:舌外在
+tongue intrinsic:舌內在
+suprahyoid:舌骨上
+infrahyoid:舌骨下
+tensor tympani:張鼓膜
+stapedius:鐙骨
+soft palate:軟顎
+pharyngeal constrictor:縮咽
+salpingopharyngeus:耳咽管咽
+stylopharyngeus:莖突咽
+palatopharyngeus:腭咽
+pharyngeal intrinsic:喉內在
+posterior auricular:耳後
+anterior triangle of the neck:頸前三角
+posterior triangle of the neck:頸後三角
+scalene anterior:前斜角
+scalene medius:中斜角
+scalene posterior:後斜角
+longus capitis:頭長
+longus colli:頸長
+rectus capitis anterior:頭前直
+rectus capitis lateralis:頭外直
+sternocleidomastoid:胸鎖乳突
+subclavius:鎖骨下
+trapezius:斜方
+levator scapulae:提肩胛
+serratus anterior:前鋸
+pectoralis minor:胸小
+rotator cuff:旋轉
+subscapularis:肩胛下
+supraspinatus:棘上
+infraspinatus:棘下
+teres minor:小圓
+teres major:大圓
+pectoralis major:胸大
+of the back:背部肉
+rhomboid major:大菱形
+rhomboid minor:小菱形
+latissimus dorsi:背闊
+serratus posterior superior:後上鋸
+serratus posterior inferior:後下鋸
+levatores costarum:提肋
+iliocostalis:髂肋
+longissimus:最長
+spinalis:棘
+semispinalis:半棘
+mutifidus:多裂
+rotatores:迴旋
+splenius capitis:頭夾
+splenius cervicis:頸夾
+interspinales:棘突間
+intertransversarii:橫突間
+rectus capitis posterior major:頭後大直
+rectus capitis posterior minor:頭後小直
+obliques capitis inferior:頭下斜
+obliques capitis superior:頭上斜
+upper limb:上肢
+arm:上臂
+deltoid:三角
+coracobrachialis:喙肱
+biceps brachii:肱二頭
+triceps brachii:肱三頭
+brachialis:肱
+brachioradialis:肱撓
+forearm:前臂
+pronator teres:旋前圓
+anconeus:肘
+pronator quadratus:旋前方
+supinator:旋後
+flexor carpi radialis:橈側屈腕
+palmaris longus:掌長
+flexor carpi ulnaris:尺側屈腕
+flexor digitorum superficialis:屈指淺
+flexor digitorum profundus:屈指深
+flexor pollicis longus:屈拇長
+extensor carpi radialis longus:橈側伸腕長
+extensor carpi radialis brevis:橈側伸腕短
+extensor carpi ulnaris:尺側伸腕
+extensor digitorum:伸指
+extensor digiti minimi:伸小指
+extensor indicis:伸食指
+extensor pollicis longus:伸拇長
+extensor pollicis brevis:伸拇短
+palmar:手掌
+abducotr pollicis longus:外展拇長
+palmaris brevis:掌短
+flexor pollicis brevis:屈拇短
+abductor pollicis brevis:外展拇短
+opponens pollicis:拇對指
+flexor digiti minimi brevis:屈小指短
+abductor digiti minimi:外展小指
+opponens digiti minimi:小指對指
+lumbrical:蚓狀
+adductor pollicis:內收拇
+palmar interossei:掌側骨間
+dorsal interossei:背側骨間
+abdominal:腹部
+external intercostals:肋間外
+internal intercostals:肋間內
+subcostales:肋骨下
+innermost:最內肋間
+transverse thoracis:胸橫
+diaphragm:橫隔
+rectus abdominis:腹直
+external oblique abdominis:腹外斜
+internal oblique abdominis:腹內斜
+pyramidalis:錐
+transverse abdominis:腹橫
+cremaster muacle:提睪
+psoas major:腰大
+quadratus lumborum:腰方
+iliacus msucle:髂
+psoas minor:腰小
+pelvis:骨盆
+levator ani:提肛
+coccygeus:尾骨
+superficial transverse perineal:會陰淺橫
+ischiocavernosus:坐骨海綿體
+bulbospongiosus:球海綿體
+deep transverse perineal:會陰深橫
+external urethral sphincter:尿道外括約
+internal urethral sphincter:尿道內括約
+sphincter ani:肛門擴約
+buttock:臀部
+gluteus maximus:臀大
+gluteus medius:臀中
+gluteus minimus:臀小
+tensor fasciae latae:闊筋膜張
+piriformis:梨狀
+obturator internus:閉孔內
+obturator externus:閉孔外
+superior gemellus:孖上
+inferior gemellus:孖下
+quadratus femoris:股方
+lower limb:下肢
+ thigh:大腿
+biceps femoris:股二頭
+semimembranosus:半膜
+semitendinosus:半腱
+quadriceps femoris:股四頭
+sartorius:縫匠
+articularis genu:膝關節
+adductor longus:內收長
+adductor brevis:內收短
+gracilis:股薄
+pectineus:恥骨
+adductor magnus:內收大
+leg:小腿
+gastrocnemius:腓腸
+soleus:比目魚
+plantaris:蹠
+popliteus:膕
+tibialis posterior:脛後
+flexor hallucis longus:屈足拇長
+flexor digitorum longus:屈趾長
+tibialis anterior:脛前
+extensor hallucis longus:伸足拇長
+extensor digitorum longus:伸趾長
+fibularis tertius:第三腓骨
+fibularis longus:腓骨長
+fibularis brevis:腓骨短
+plantar:蹠部
+flexor digitorum brevis:屈趾短
+abductor hallucis:外展足拇
+abductor digiti minimi:外展小趾
+quadratus plantae:蹠方
+lumbricals:足蚓狀，4條
+flexor hallucis brevis:屈足拇短
+adductor hallucis:內收足拇
+flexor digiti minimi brevis:屈小趾短
+dorsal interossei:背側骨間
+plantar interossei:蹠側骨間
+extensor digitorum brevis:伸趾短
+extensor hallucis brevis:伸足母短
+mammography:乳房攝影
+ultrasound:超音波
+regular follow up:定期追蹤
+enlarged:腫大的
+tiny:小
+regular:規則
+follow up:追蹤
+semilunar-shaped:半月狀
+mass:腫塊
+masses:腫塊
+nephrectomy:腎已切除
+renal cyst:腎水泡
+renal cysts:腎水泡
+suspected:疑似
+right side:右側
+left side:左側
+DDx:鑑別診斷
+myositis:肌炎
+atelectasis:肺塌陷
+regular follow up with:定期追蹤
+follow up with:追蹤

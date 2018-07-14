@@ -1,0 +1,22 @@
+﻿in the junctions between:在 {} 之間
+identified in:在 {} 發現
+not seen in:於 {} 未發現
+in: {}
+at:在 {}
+on:於 {} 
+over:於 {}
+in front of:於 {} 前方
+behind:於 {} 後方
+beside:於 {} 旁
+under:於 {} 下
+on top of:於 {} 頂端
+around:環繞 {}
+below:在 {} 下
+within:在 {} 裡
+above:在 {} 之上
+after:在 {} 之後
+along:沿著 {}
+among:在 {} 之中
+before:在 {} 之前
+between:在 {} 之間
+throughout:在 {} 各處

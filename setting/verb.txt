@@ -1,0 +1,69 @@
+﻿spondylolisthesis:腰椎滑脫
+is likely due to:應為
+FDG-PET study of the whole body reveals:正子電腦斷層檢查發現
+FDG-PET study of the whole body reveal:正子電腦斷層檢查發現
+FDG-PET study of the whole body reveal possible:正子電腦斷層檢查發現疑似
+is compatible with:應為
+is noted:被發現
+shrinked:變小 {}
+is found:發現 {}
+cross checkup:進一部檢查
+is needed:建議
+are recommended:建議 {}
+is detected:被發現
+are compatible:應為 {}
+may suggest:可能為
+there is:有
+there are:有
+become:變得
+becomes:變得
+may due to:可能為
+which could be due to:可能為
+to suggest:支持 {}
+are also found:另外發現 {}
+suspecting:疑似
+correlation with:比對
+ct shows:電腦斷層發現
+Advise:建議
+need:建議
+needs:建議
+possible:疑為
+is due to:應為
+are due to:應為
+is likely:應為 {}
+consult:諮詢
+are likely:應為
+likely due to:應為
+considering:應為
+likely due to associated:應為相關的
+as compared with prior study on:與前次於 的檢查相比
+as compared with LDCT on:與前次於 的低劑量肺部電腦斷層相比
+possibly due to:疑為
+which moves:{} 移動
+could be due to:可能為
+could be:可能為
+is recommended:建議 {}
+is advised:建議 {}
+likely:應為
+due to:應為
+is considered:應為 {}
+are considered:應為
+which could be:可能為
+compatible with:應為
+may:可能
+shows:發現
+show:發現
+showed:發現
+favoring:可能為
+favored:可能為 {}
+more favored:較可能為 {}
+c/w:應為
+r/o:疑似
+s/p:{}處理後狀態
+status post:{}處理後狀態
+suggesting:應為
+is suspected first:較可能為 {}
+is also noted:另外發現 {}
+is:is
+are:為
+cannot be excluded:不能排除 {} 的可能性

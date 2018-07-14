@@ -1,0 +1,3 @@
+﻿Normal physiological FDG-PET study of the brain:腦部正子電腦斷層在正常範圍
+Normal physiological FDG-PET study of the whole body:全身正子電腦斷層在正常範圍
+There is no focus of abnormal FDG uptake identified:無異常葡萄糖攝取

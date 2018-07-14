@@ -1,0 +1,3 @@
+the:,art
+in:,prep
+at:,prep
